@@ -1,6 +1,6 @@
 
 .header{
-    background-color: rgba(0, 0, 0, 0.329);
+    background-color: rgb(69, 71, 71);
     display: flex;
     justify-content: space-around;
     width: 100%;
@@ -51,8 +51,8 @@ ul li{
 
 
 .logo img{
-    width: 75%;
-    height: 75%;
+    width: 110%;
+    height: 110%;
     float: left;
     margin: auto;
     
